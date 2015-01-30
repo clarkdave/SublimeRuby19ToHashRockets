@@ -2,7 +2,7 @@
 
 This plugin simply replaces Ruby 1.9 hash syntax `{ foo: 'bar' }` to Ruby 1.8 hash rockets `{ :foo => 'bar' }`
 
-It'll operate on the currently selected text. Call it using the command `Convert Ruby 1.9 Hashes to Rockets` or the default shortcut key, `cmd + ctrl + h`
+It'll operate on the currently selected text. Call it using the command `Convert Ruby 1.9 Hashes to Rockets` or the default shortcut key, `CMD + Shift + H`
 
 ## Licence
 
