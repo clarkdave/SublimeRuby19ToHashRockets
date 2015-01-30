@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Convert Ruby 1.9 Hashes to Rockets",
+    "command": "ruby19_to_rockets"
+  }
+]
